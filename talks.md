@@ -1,0 +1,2 @@
+## Making TypeScript less scary
+TypeScript is a pretty fun super set of javaScript. This talk covers the basics of what it is, how it works, and what the benefits it has for anyone using javaScript in development. -Steve Barman
