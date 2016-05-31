@@ -8,4 +8,8 @@ To submit a talk. Do a pull request here, add your talk title, short description
 
 - __You're just not my type: A TypeScript overview__
   - led by: Steve Barman
-  - abstract: Why are you coding without your seatbelt? This talk covers the basics of what TypeScript is, how it works, and what the benefits it has for anyone using javaScript in development. 
+  - abstract: Why are you coding without your seatbelt? This talk covers the basics of what TypeScript is, how it works, and what the benefits it has for anyone using javaScript in development.
+
+- __An Arrow Function (to the knee): Adventures in ES6__
+  - led by: Sean O'Donohue
+  - abstract: Arrow functions are more than just a prettier function syntax for ES6. This talk gives examples of use cases for arrow functions, as well as some caveats and gotchas so you can avoid shooting yourself in the knee.
