@@ -10,6 +10,6 @@ To submit a talk. Do a pull request here, add your talk title, short description
   - led by: Sean O'Donohue
   - abstract: Arrow functions are more than just a prettier function syntax for ES6. This talk gives examples of use cases for arrow functions, as well as some caveats and gotchas so you can avoid shooting yourself in the knee.
 
--__I Have No Idea What I'm Doing: How to Learn Something New__
+- __I Have No Idea What I'm Doing: How to Learn Something New__
   - led by: James Phillips
   - abstract: Learning anything new can be a daunting task. This talk gives an overview of methods and strategies to begin learning something new.
