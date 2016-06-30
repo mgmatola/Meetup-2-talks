@@ -4,7 +4,8 @@ To submit a talk. Do a pull request here, add your talk title, short description
 
 - __A gentle introduction to currying in JavaScript__
   - led by: Michael Matola
-  - abstract: I struggled through many explanations and examples of currying/partial function application before finally starting to understand it. I offer a gentle introduction to the hows and whys of  currying in JavaScript (with added bonus: closures).
+  - abstract: I struggled through many explanations and examples of currying/partial function application before finally starting to understand it. I offer a gentle introduction to the hows and whys of currying in JavaScript (with added bonus: closures).
+  - [**SLIDE**](blob/master/MikeMatolaMeetup2.md)
 
 - __An Arrow Function (to the knee): Adventures in ES6__
   - led by: Sean O'Donohue
